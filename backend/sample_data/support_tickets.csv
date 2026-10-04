@@ -1,0 +1,3 @@
+ticket,time,detail
+SUP-101,10:05,Customer reports payment failed during checkout
+SUP-102,10:06,Payment request timed out; customer retried

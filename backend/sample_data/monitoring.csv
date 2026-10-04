@@ -1,0 +1,5 @@
+time,service,cpu,error_rate,notes
+10:00,payment-api,91%,2.1%,CPU increased
+10:03,payment-api,94%,12.5%,Elevated payment API errors
+10:12,payment-api,58%,1.2%,Error rate decreased after restart
+10:20,payment-api,42%,0.2%,Service stable

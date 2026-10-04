@@ -1,0 +1,2 @@
+10:07 Maya: Payment API errors are elevated. Could be database connection pool exhaustion, but I don't have DB metrics yet.
+10:08 Ravi: No confirmed database failure so far. Checking service logs.
